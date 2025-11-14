@@ -27,7 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-<br clear="both">
+###
+
+<div align="left">
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/andrvlight/andrvlight/output/snake.svg" alt="Snake animation" />
 
