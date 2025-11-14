@@ -33,7 +33,6 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRzc3QwZmk3dG9vZXM4bjZmeXE3bHUzZDE3ZTJ6cTc2cWR3aHhpeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zkNBtlymM6zX4DndrU/giphy.gif"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/andrvlight/andrvlight/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/andrvlight/andrvlight/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
