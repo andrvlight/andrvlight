@@ -29,11 +29,14 @@
 
 ###
 
-<div align="left">
-</div>
+<img src="https://raw.githubusercontent.com/andrvlight/andrvlight/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/andrvlight/andrvlight/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/andrvlight">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=andrvlight&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
