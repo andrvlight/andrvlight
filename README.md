@@ -1,24 +1,8 @@
-## Hi there 👋
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm a student and developer interested in user-friendly apps, games, and automation!  
-- 🌱 Learning new tech all the time  
-- 💬 Ask me about GUI apps, Java, or student budgeting  
-- 📫 Reach out via GitHub Issues or my email in profile  
-- ⚡ Fun fact: Can make pasta and mashed potatoes blindfolded!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 📊 Languages Used (Custom estimate)
-
-| Language    | Percent |
-|-------------|---------|
-| Java        | 60%     |
-| Python      | 15%     |
-| C++         | 10%     |
-| JavaScript  | 10%     |
-| Other       | 5%      |
-
-<!-- 
-For public repo stats use the card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrvlight&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-But custom table above is more accurate if you use private code!
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrvlight&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
