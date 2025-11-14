@@ -29,7 +29,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/andrvlight/andrvlight/output/snake.svg" alt="Snake animation" width="700" />
+<img src="https://raw.githubusercontent.com/andrvlight/andrvlight/output/snake.svg" alt="Snake animation" width="650" />
 
 
 ###
